@@ -1,0 +1,7 @@
+C:\Users\kakowku\source\Ravi\1 for loop\2\bin\Debug\2.exe.config
+C:\Users\kakowku\source\Ravi\1 for loop\2\bin\Debug\2.exe
+C:\Users\kakowku\source\Ravi\1 for loop\2\bin\Debug\2.pdb
+C:\Users\kakowku\source\Ravi\1 for loop\2\obj\Debug\2.csproj.AssemblyReference.cache
+C:\Users\kakowku\source\Ravi\1 for loop\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\kakowku\source\Ravi\1 for loop\2\obj\Debug\2.exe
+C:\Users\kakowku\source\Ravi\1 for loop\2\obj\Debug\2.pdb

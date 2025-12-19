@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E2033B-E838-46CA-ADC2-58A1DF79A315}|10\\10.csproj|c:\\users\\kakowku\\source\\ravi\\1 for loop\\10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E2033B-E838-46CA-ADC2-58A1DF79A315}|10\\10.csproj|solutionrelative:10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6864337A-4D4F-4BBE-AE19-EE8DC571E8C6}|9\\9.csproj|c:\\users\\kakowku\\source\\ravi\\1 for loop\\9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6864337A-4D4F-4BBE-AE19-EE8DC571E8C6}|9\\9.csproj|solutionrelative:9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329B3CA2-E8FC-4622-9A91-A3FB78B518B2}|8\\8.csproj|c:\\users\\kakowku\\source\\ravi\\1 for loop\\8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329B3CA2-E8FC-4622-9A91-A3FB78B518B2}|8\\8.csproj|solutionrelative:8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C798D4BC-540E-4BFC-942D-0303CE5A06B2}|7\\7.csproj|c:\\users\\kakowku\\source\\ravi\\1 for loop\\7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C798D4BC-540E-4BFC-942D-0303CE5A06B2}|7\\7.csproj|solutionrelative:7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CAE30C-9A38-4C48-AA5C-53EC5C2F03C3}|6\\6.csproj|c:\\users\\kakowku\\source\\ravi\\1 for loop\\6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15CAE30C-9A38-4C48-AA5C-53EC5C2F03C3}|6\\6.csproj|solutionrelative:6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800A5C27-A448-4BFB-92B5-6551956200D3}|5\\5.csproj|c:\\users\\kakowku\\source\\ravi\\1 for loop\\5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{800A5C27-A448-4BFB-92B5-6551956200D3}|5\\5.csproj|solutionrelative:5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B510872F-B403-4D11-B3F4-DB72001E7B3B}|4\\4.csproj|c:\\users\\kakowku\\source\\ravi\\1 for loop\\4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B510872F-B403-4D11-B3F4-DB72001E7B3B}|4\\4.csproj|solutionrelative:4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{800A5C27-A448-4BFB-92B5-6551956200D3}|5\\5.csproj|c:\\users\\kakowku\\source\\ravi\\1 for loop\\5\\5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{800A5C27-A448-4BFB-92B5-6551956200D3}|5\\5.csproj|solutionrelative:5\\5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15581AEB-1427-448D-912A-91F74DCD9282}|3\\3.csproj|c:\\users\\kakowku\\source\\ravi\\1 for loop\\3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15581AEB-1427-448D-912A-91F74DCD9282}|3\\3.csproj|solutionrelative:3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5DD555-8281-486C-89C2-92FF40A28BF5}|2\\2.csproj|C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5DD555-8281-486C-89C2-92FF40A28BF5}|2\\2.csproj|solutionrelative:2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87CFF01-00FC-41CD-9F56-AF38020C3511}|1 for loop\\1 for loop.csproj|c:\\users\\kakowku\\source\\ravi\\1 for loop\\1 for loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87CFF01-00FC-41CD-9F56-AF38020C3511}|1 for loop\\1 for loop.csproj|solutionrelative:1 for loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329B3CA2-E8FC-4622-9A91-A3FB78B518B2}|8\\8.csproj|c:\\users\\kakowku\\source\\ravi\\1 for loop\\8\\8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{329B3CA2-E8FC-4622-9A91-A3FB78B518B2}|8\\8.csproj|solutionrelative:8\\8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CAE30C-9A38-4C48-AA5C-53EC5C2F03C3}|6\\6.csproj|c:\\users\\kakowku\\source\\ravi\\1 for loop\\6\\6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15CAE30C-9A38-4C48-AA5C-53EC5C2F03C3}|6\\6.csproj|solutionrelative:6\\6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87CFF01-00FC-41CD-9F56-AF38020C3511}|1 for loop\\1 for loop.csproj|c:\\users\\kakowku\\source\\ravi\\1 for loop\\1 for loop\\1 for loop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A87CFF01-00FC-41CD-9F56-AF38020C3511}|1 for loop\\1 for loop.csproj|solutionrelative:1 for loop\\1 for loop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "5.csproj",
+              "DocumentMoniker": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\5\\5.csproj",
+              "RelativeDocumentMoniker": "5\\5.csproj",
+              "ToolTip": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\5\\5.csproj",
+              "RelativeToolTip": "5\\5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T15:33:19.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\6\\Program.cs",
+              "RelativeDocumentMoniker": "6\\Program.cs",
+              "ToolTip": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\6\\Program.cs",
+              "RelativeToolTip": "6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:24:04.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\5\\Program.cs",
+              "RelativeDocumentMoniker": "5\\Program.cs",
+              "ToolTip": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\5\\Program.cs",
+              "RelativeToolTip": "5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:07:59.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\4\\Program.cs",
+              "RelativeDocumentMoniker": "4\\Program.cs",
+              "ToolTip": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\4\\Program.cs",
+              "RelativeToolTip": "4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:02:18.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\3\\Program.cs",
+              "RelativeDocumentMoniker": "3\\Program.cs",
+              "ToolTip": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\3\\Program.cs",
+              "RelativeToolTip": "3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:52:59.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\2\\Program.cs",
+              "RelativeDocumentMoniker": "2\\Program.cs",
+              "ToolTip": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\2\\Program.cs",
+              "RelativeToolTip": "2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T10:18:44.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\7\\Program.cs",
+              "RelativeDocumentMoniker": "7\\Program.cs",
+              "ToolTip": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\7\\Program.cs",
+              "RelativeToolTip": "7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:46:19.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\1 for loop\\Program.cs",
+              "RelativeDocumentMoniker": "1 for loop\\Program.cs",
+              "ToolTip": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\1 for loop\\Program.cs",
+              "RelativeToolTip": "1 for loop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T09:58:58.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\10\\Program.cs",
+              "RelativeDocumentMoniker": "10\\Program.cs",
+              "ToolTip": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\10\\Program.cs",
+              "RelativeToolTip": "10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:01:09.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\8\\Program.cs",
+              "RelativeDocumentMoniker": "8\\Program.cs",
+              "ToolTip": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\8\\Program.cs",
+              "RelativeToolTip": "8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T14:55:55.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\9\\Program.cs",
+              "RelativeDocumentMoniker": "9\\Program.cs",
+              "ToolTip": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\9\\Program.cs",
+              "RelativeToolTip": "9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:00:28.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "8.csproj",
+              "DocumentMoniker": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\8\\8.csproj",
+              "RelativeDocumentMoniker": "8\\8.csproj",
+              "ToolTip": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\8\\8.csproj",
+              "RelativeToolTip": "8\\8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T15:05:08.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "1 for loop.csproj",
+              "DocumentMoniker": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\1 for loop\\1 for loop.csproj",
+              "RelativeDocumentMoniker": "1 for loop\\1 for loop.csproj",
+              "ToolTip": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\1 for loop\\1 for loop.csproj",
+              "RelativeToolTip": "1 for loop\\1 for loop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T12:19:49.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "6.csproj",
+              "DocumentMoniker": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\6\\6.csproj",
+              "RelativeDocumentMoniker": "6\\6.csproj",
+              "ToolTip": "C:\\Users\\kakowku\\source\\Ravi\\1 for loop\\6\\6.csproj",
+              "RelativeToolTip": "6\\6.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T14:45:01.352Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

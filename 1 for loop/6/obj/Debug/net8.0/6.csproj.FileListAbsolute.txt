@@ -1,0 +1,14 @@
+C:\Users\kakowku\source\Ravi\1 for loop\6\bin\Debug\net8.0\6.exe
+C:\Users\kakowku\source\Ravi\1 for loop\6\bin\Debug\net8.0\6.deps.json
+C:\Users\kakowku\source\Ravi\1 for loop\6\bin\Debug\net8.0\6.runtimeconfig.json
+C:\Users\kakowku\source\Ravi\1 for loop\6\bin\Debug\net8.0\6.dll
+C:\Users\kakowku\source\Ravi\1 for loop\6\bin\Debug\net8.0\6.pdb
+C:\Users\kakowku\source\Ravi\1 for loop\6\obj\Debug\net8.0\6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kakowku\source\Ravi\1 for loop\6\obj\Debug\net8.0\6.AssemblyInfoInputs.cache
+C:\Users\kakowku\source\Ravi\1 for loop\6\obj\Debug\net8.0\6.AssemblyInfo.cs
+C:\Users\kakowku\source\Ravi\1 for loop\6\obj\Debug\net8.0\6.csproj.CoreCompileInputs.cache
+C:\Users\kakowku\source\Ravi\1 for loop\6\obj\Debug\net8.0\6.dll
+C:\Users\kakowku\source\Ravi\1 for loop\6\obj\Debug\net8.0\refint\6.dll
+C:\Users\kakowku\source\Ravi\1 for loop\6\obj\Debug\net8.0\6.pdb
+C:\Users\kakowku\source\Ravi\1 for loop\6\obj\Debug\net8.0\6.genruntimeconfig.cache
+C:\Users\kakowku\source\Ravi\1 for loop\6\obj\Debug\net8.0\ref\6.dll
